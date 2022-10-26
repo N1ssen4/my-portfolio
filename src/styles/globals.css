@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis&family=Lato:wght@100;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@lauer base {
+  html {
+    font-family: "Dosis", sans-serif;
+    font-family: "Lato", sans-serif;
+  }
+}
